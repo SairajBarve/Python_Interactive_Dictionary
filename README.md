@@ -1,1 +1,1 @@
-A command line dictionary built using Python
+one of the best command line dictionary built using Python
